@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Jan  6 23:04:23 2023
-
-@author: emre
-"""
-
 while True:
     print("\nOptions:")
     print("Enter 'add' to add two numbers")
